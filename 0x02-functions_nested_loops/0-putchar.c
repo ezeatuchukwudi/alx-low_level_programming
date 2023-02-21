@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description: 'print _putchar is written by ezeatuchukwudi'
- * Return : 0
+ * Return : Always 0
  */
 
 int main(void)
